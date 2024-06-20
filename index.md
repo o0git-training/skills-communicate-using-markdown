@@ -9,3 +9,7 @@ I've opened a pull request, and added content to the index.md file.
 ``` javascript
 console.log("Hello, Friend!!!");
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portoflio
+- [ ] Introduce myself to the world 
